@@ -1,0 +1,6 @@
+jupyterlab
+plotly-express
+ipywidgets
+numpy
+matplotlib
+ipython
